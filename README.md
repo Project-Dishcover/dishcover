@@ -1,10 +1,10 @@
 
 # bangkit-capstone-project
-The documentation of Dishcover' application in Bangkit Capstone Project 2022
+The documentation of Dishcover' application in Bangkit Capstone Project 2023
 
 
 # About
-Dishcover is .
+Dishcover is your cooking companion at home, effortlessly recognizing any dish in front of you 
 
 # The Team
 
